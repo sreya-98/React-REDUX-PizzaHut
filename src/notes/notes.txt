@@ -1,0 +1,16 @@
+Configuration of React Redux
+--------------------------------
+
+-> Install redux packages
+
+ redux, react-redux, redux-devtools-extension
+
+1) Store -> maintains the completed application data
+2) reducer -> a pure function, updates/modifies the state/store for an action
+3) action -> a command to modify/update store data
+4) selector -> to get data from the store
+5) dispatch -> a function to trigger an action
+
+useSelector() -> to get data from the REDUX store
+useDispatch() -> to dispatch an action to REDUX store
+

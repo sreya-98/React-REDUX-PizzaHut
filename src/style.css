@@ -1,0 +1,33 @@
+/* Your custom styles */
+.btn-primary , .bg-primary{
+    background: linear-gradient(45deg,blueviolet,coral);
+}
+.btn-secondary , .bg-secondary{
+    background: linear-gradient(45deg,purple,coral);
+}
+.btn-success , .bg-success{
+    background: linear-gradient(45deg,limegreen,coral);
+}
+.btn-info , .bg-info{
+    background: linear-gradient(45deg,lightblue,lightcoral);
+}
+.btn-warning , .bg-warning{
+    background: linear-gradient(45deg,orange,coral);
+}
+.btn-danger , .bg-danger{
+    background: linear-gradient(45deg,red,coral);
+}
+.btn-light , .bg-light{
+    background: linear-gradient(45deg,gray,coral);
+}
+.btn-dark , .bg-dark{
+    background: linear-gradient(45deg,darkslategray,coral);
+}
+.contact-img{
+    margin-top: -70px;
+}
+
+
+
+
+
